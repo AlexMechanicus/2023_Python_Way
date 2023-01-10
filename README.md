@@ -16,7 +16,7 @@
    * [Data Engineering and Machine Learning using Spark](https://www.coursera.org/learn/data-engineering-and-machine-learning-using-spark?specialization=ibm-data-engineer)
    * [Data Engineering Capstone Project](https://www.coursera.org/learn/data-enginering-capstone-project?specialization=ibm-data-engineer)
 ---
-### Zoomcamp
+### Bootcamps
 * [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 ---
 ### Roadmaps

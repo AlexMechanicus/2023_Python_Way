@@ -1,4 +1,7 @@
-# 2023 Data Engineer learning
+# Data Engineer learning
+---
+### Math for DS and ML
+* [K/C Math for DS (Basic)] https://lab.karpov.courses/learning/253
 ---
 ### Coursera
 * [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer?irclickid=TeT3MBUxyxyNRqy342ReS1cxUkA2oHVP4WrL0w0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2987000&utm_content=b2c):

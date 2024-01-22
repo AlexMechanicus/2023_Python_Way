@@ -36,7 +36,7 @@
     *  [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.manning.com/books/grokking-algorithms) ([Code examples](https://github.com/egonSchiele/grokking_algorithms))
 ---
 asdasd | sdfsdfd |
---- | ---
+--- | --- 
 sdfsdfs | [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer?irclickid=TeT3MBUxyxyNRqy342ReS1cxUkA2oHVP4WrL0w0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2987000&utm_content=b2c):
   [Introduction to Data Engineering](https://www.coursera.org/learn/introduction-to-data-engineering?specialization=ibm-data-engineer)
   [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-engineer)
@@ -50,5 +50,5 @@ sdfsdfs | [IBM Data Engineering Professional Certificate](https://www.coursera.o
   [Introduction to NoSQL Databases](https://www.coursera.org/learn/introduction-to-nosql-databases?specialization=ibm-data-engineer)
   [Introduction to Big Data with Spark and Hadoop](https://www.coursera.org/learn/introduction-to-big-data-with-spark-hadoop?specialization=ibm-data-engineer)
   [Data Engineering and Machine Learning using Spark](https://www.coursera.org/learn/data-engineering-and-machine-learning-using-spark?specialization=ibm-data-engineer)
-  [Data Engineering Capstone Project](https://www.coursera.org/learn/data-enginering-capstone-project?specialization=ibm-data-engineer) |
+  [Data Engineering Capstone Project](https://www.coursera.org/learn/data-enginering-capstone-project?specialization=ibm-data-engineer) | 
 --- | --- 

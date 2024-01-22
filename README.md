@@ -1,9 +1,9 @@
 # Data Engineer learning
----
-### Math for DS and ML
-* [K/C Math for DS (Basic)] https://lab.karpov.courses/learning/253
----
-### Coursera
+--- |
+### Math for DS and ML |
+* [K/C Math for DS (Basic)] https://lab.karpov.courses/learning/253 |
+--- |
+### Coursera |
 * [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer?irclickid=TeT3MBUxyxyNRqy342ReS1cxUkA2oHVP4WrL0w0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2987000&utm_content=b2c):
    * [Introduction to Data Engineering](https://www.coursera.org/learn/introduction-to-data-engineering?specialization=ibm-data-engineer)
    * [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-engineer)

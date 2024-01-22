@@ -1,7 +1,7 @@
 # Data Engineer learning
 ---
 ### Math for DS and ML
-* [K/C Math for DS (Basic)] https://lab.karpov.courses/learning/253
+* [K/C Math for DS (Basic)](https://lab.karpov.courses/learning/253)
 ---
 ### Coursera
 * [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer?irclickid=TeT3MBUxyxyNRqy342ReS1cxUkA2oHVP4WrL0w0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2987000&utm_content=b2c):
@@ -38,6 +38,7 @@
 Course | Status
 --- | --- 
 [Yandex Math Foundations](https://practicum.yandex.ru/trainer/math-foundations) | In progress
+[K/C Math for DS (Basic)](https://lab.karpov.courses/learning/253) | Planned
 [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.manning.com/books/grokking-algorithms) ([Code examples](https://github.com/egonSchiele/grokking_algorithms)) | Planned 
 [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer?irclickid=TeT3MBUxyxyNRqy342ReS1cxUkA2oHVP4WrL0w0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2987000&utm_content=b2c) | 
 [Introduction to Data Engineering](https://www.coursera.org/learn/introduction-to-data-engineering?specialization=ibm-data-engineer) |
